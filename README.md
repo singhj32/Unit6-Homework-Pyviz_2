@@ -1,2 +1,2 @@
 # Unit6-Homework-Pyviz_2
-Unit6-Homework-Pyviz_2
+Unit6-Homework-Pyviz TA's - I was able to print and see the plots in my jupyter notebook but they don't seem to export with the file. So I saved the plots as image files and uploaded here.Please see the .png files for the plots in the images folder. 
